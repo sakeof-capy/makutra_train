@@ -1,0 +1,8 @@
+target/
+.git/
+*.rs.bk
+*.log
+*.tmp
+Dockerfile
+.dockerignore
+.env*
